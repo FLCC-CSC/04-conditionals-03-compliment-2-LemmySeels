@@ -14,6 +14,13 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+compliment1 = input('Would you like a compliment? ')
+if compliment1 == 'yes':
+        print('You have wonderful eyes.')
+else:
+        print('No compliment for you!')
+print('Thank you for playing.')
+
 
 
 
@@ -70,7 +77,7 @@ Thank you for playing.
 '''
 
 1. Did you struggle with this lab (YES/NO)?
-
+No
 
 
 
